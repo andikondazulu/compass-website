@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: stg_grants
+    description: "Cleaned grant records for Compass."
+    columns:
+      - name: grant_id
+        data_tests:
+          - unique
+          - not_null
+
+      - name: organisation
+        data_tests:
+          - not_null
+
+      - name: programme
+        data_tests:
+          - not_null
+
+      - name: region
+        data_tests:
+          - not_null
+
+      - name: committed
+        data_tests:
+          - not_null
+
+      - name: disbursed
+        data_tests:
+          - not_null

@@ -1,0 +1,33 @@
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #f6f7fb;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: #202a3b;
+  background: #dfe3ff;
+}

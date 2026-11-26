@@ -1,0 +1,13 @@
+id,organisation,programme,region,committed,disbursed,status,start_date
+G001,Bright Futures,Education,East Africa,250000,180000,On track,2026-01-15
+G002,Green Earth,Climate,West Africa,180000,150000,On track,2026-01-20
+G003,Health First,Health,East Africa,320000,220000,At risk,2026-02-10
+G004,Future Skills,Livelihoods,Southern Africa,140000,140000,Completed,2026-02-18
+G005,Clean Water Initiative,Health,West Africa,210000,130000,At risk,2026-03-01
+G006,Girls Can Learn,Education,East Africa,280000,210000,On track,2026-03-15
+G007,Solar Communities,Climate,Southern Africa,190000,110000,At risk,2026-04-05
+G008,Rural Enterprise,Livelihoods,West Africa,160000,125000,On track,2026-04-20
+G009,Learning Together,Education,West Africa,230000,190000,Completed,2026-05-01
+G010,Healthy Families,Health,Southern Africa,260000,175000,On track,2026-05-12
+G011,Forest Futures,Climate,East Africa,300000,200000,At risk,2026-06-02
+G012,Women in Work,Livelihoods,East Africa,195000,150000,On track,2026-06-15
